@@ -22,18 +22,13 @@ Depending on how it’s configured, the tool can:
 #### 💡 Why Use a Telegram Bulk Messaging Tool?
 
 Whether you're promoting a new service or building awareness for your community, sending DMs is one of the most direct and effective outreach methods on Telegram.
-
 Here’s why Telegram mass messaging tools are valuable:
 
-Instant User Engagement: Reach users right in their private chats — no need for ads or posts.
-
-High Visibility: Telegram DMs are seen and opened more than group messages or broadcasts.
-
-Customizable Messaging: Use variables to personalize content, making your messages more engaging.
-
-Scalable Outreach: Send messages to hundreds or thousands of users automatically.
-
-Cost-Effective Marketing: No ad spend — just results through direct outreach.
+- **Instant User Engagement:** Reach users right in their private chats — no need for ads or posts.
+- **High Visibility:** Telegram DMs are seen and opened more than group messages or broadcasts.
+- **Customizable Messaging:** Use variables to personalize content, making your messages more engaging.
+- **Scalable Outreach:** Send messages to hundreds or thousands of users automatically.
+- **Cost-Effective Marketing:** No ad spend — just results through direct outreach.
 
 #### 📈 Use Cases
 
@@ -81,5 +76,3 @@ If you have any questions, make sure to contact us.
 Feel free to contact us for any questions: https://shorturl.at/ZJHUf
 
 <a href="https://github.com/PremiumTG/Telegram-Message-Sender-TG"><img alt="Cute Count" src="https://count.getloli.com/get/@ssamgt?theme=asoul" /></a>
-Q: How many messages can I send per day?
-A: It depends on your account quality, the message content, and Telegram's rate limits. Using multiple accounts and slow intervals increases safety.
